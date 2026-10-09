@@ -1,0 +1,917 @@
+{
+  "assets": [
+    {
+      "contentType": "image/jpeg",
+      "id": "2162bf211174d6be",
+      "kind": "image",
+      "name": "9bfc631ea84a59302db2ed06b944534f.jpg",
+      "path": "C:\\Users\\ander\\AppData\\Local\\Temp/browser-use/assets/cc67b328-6296-492d-a6a4-2852452860f6/2162bf211174d6be.jpg",
+      "url": "https://nandrade.my.canva.site/_assets/media/9bfc631ea84a59302db2ed06b944534f.jpg"
+    },
+    {
+      "contentType": "image/jpeg",
+      "id": "9208db5e46268c99",
+      "kind": "image",
+      "name": "7799efc7ab57ca6c59d6d160dbb956c5.jpg",
+      "path": "C:\\Users\\ander\\AppData\\Local\\Temp/browser-use/assets/cc67b328-6296-492d-a6a4-2852452860f6/9208db5e46268c99.jpg",
+      "url": "https://nandrade.my.canva.site/_assets/video/7799efc7ab57ca6c59d6d160dbb956c5.jpg"
+    },
+    {
+      "contentType": "image/jpeg",
+      "id": "150fba8ffff672ce",
+      "kind": "image",
+      "name": "33a9eac95e35973606cb192fc34c5842.jpg",
+      "path": "C:\\Users\\ander\\AppData\\Local\\Temp/browser-use/assets/cc67b328-6296-492d-a6a4-2852452860f6/150fba8ffff672ce.jpg",
+      "url": "https://nandrade.my.canva.site/_assets/media/33a9eac95e35973606cb192fc34c5842.jpg"
+    },
+    {
+      "contentType": "image/jpeg",
+      "id": "936345562719ddec",
+      "kind": "image",
+      "name": "a3155523550bb6eba6282b1b801ba85d.jpg",
+      "path": "C:\\Users\\ander\\AppData\\Local\\Temp/browser-use/assets/cc67b328-6296-492d-a6a4-2852452860f6/936345562719ddec.jpg",
+      "url": "https://nandrade.my.canva.site/_assets/media/a3155523550bb6eba6282b1b801ba85d.jpg"
+    },
+    {
+      "contentType": "image/jpeg",
+      "id": "1bfd73ba3ab0ddb2",
+      "kind": "image",
+      "name": "14dd4a7484b605aa0188e67543f2fe1b.jpg",
+      "path": "C:\\Users\\ander\\AppData\\Local\\Temp/browser-use/assets/cc67b328-6296-492d-a6a4-2852452860f6/1bfd73ba3ab0ddb2.jpg",
+      "url": "https://nandrade.my.canva.site/_assets/media/14dd4a7484b605aa0188e67543f2fe1b.jpg"
+    },
+    {
+      "contentType": "image/jpeg",
+      "id": "277be50514f7bba4",
+      "kind": "image",
+      "name": "b6b5824866d1395129ad0c6f593bde3a.jpg",
+      "path": "C:\\Users\\ander\\AppData\\Local\\Temp/browser-use/assets/cc67b328-6296-492d-a6a4-2852452860f6/277be50514f7bba4.jpg",
+      "url": "https://nandrade.my.canva.site/_assets/media/b6b5824866d1395129ad0c6f593bde3a.jpg"
+    },
+    {
+      "contentType": "image/jpeg",
+      "id": "3fc831243c908cbc",
+      "kind": "image",
+      "name": "97a9d1b1d9c04e23a6b6dde49d2b1e47.jpg",
+      "path": "C:\\Users\\ander\\AppData\\Local\\Temp/browser-use/assets/cc67b328-6296-492d-a6a4-2852452860f6/3fc831243c908cbc.jpg",
+      "url": "https://nandrade.my.canva.site/_assets/media/97a9d1b1d9c04e23a6b6dde49d2b1e47.jpg"
+    },
+    {
+      "contentType": "image/jpeg",
+      "id": "6a07dacc37039669",
+      "kind": "image",
+      "name": "04c3f27c019c6b57cc2f042e7c6840fc.jpg",
+      "path": "C:\\Users\\ander\\AppData\\Local\\Temp/browser-use/assets/cc67b328-6296-492d-a6a4-2852452860f6/6a07dacc37039669.jpg",
+      "url": "https://nandrade.my.canva.site/_assets/media/04c3f27c019c6b57cc2f042e7c6840fc.jpg"
+    },
+    {
+      "contentType": "image/jpeg",
+      "id": "0be89ba1fa2c3dce",
+      "kind": "image",
+      "name": "37740fb29376685c828eccf87c9db4e3.jpg",
+      "path": "C:\\Users\\ander\\AppData\\Local\\Temp/browser-use/assets/cc67b328-6296-492d-a6a4-2852452860f6/0be89ba1fa2c3dce.jpg",
+      "url": "https://nandrade.my.canva.site/_assets/media/37740fb29376685c828eccf87c9db4e3.jpg"
+    },
+    {
+      "contentType": "image/jpeg",
+      "id": "6c1789b0300317f8",
+      "kind": "image",
+      "name": "85ca4c86fccf965993a184fc1e2f86ac.jpg",
+      "path": "C:\\Users\\ander\\AppData\\Local\\Temp/browser-use/assets/cc67b328-6296-492d-a6a4-2852452860f6/6c1789b0300317f8.jpg",
+      "url": "https://nandrade.my.canva.site/_assets/media/85ca4c86fccf965993a184fc1e2f86ac.jpg"
+    },
+    {
+      "contentType": "image/jpeg",
+      "id": "8061bdc927e9ee99",
+      "kind": "image",
+      "name": "18a86353225ff46ee44310b49628ecf3.jpg",
+      "path": "C:\\Users\\ander\\AppData\\Local\\Temp/browser-use/assets/cc67b328-6296-492d-a6a4-2852452860f6/8061bdc927e9ee99.jpg",
+      "url": "https://nandrade.my.canva.site/_assets/media/18a86353225ff46ee44310b49628ecf3.jpg"
+    },
+    {
+      "contentType": "image/jpeg",
+      "id": "276e28d2caf8c1ef",
+      "kind": "image",
+      "name": "a445ae764fd192d639a698af76831322.jpg",
+      "path": "C:\\Users\\ander\\AppData\\Local\\Temp/browser-use/assets/cc67b328-6296-492d-a6a4-2852452860f6/276e28d2caf8c1ef.jpg",
+      "url": "https://nandrade.my.canva.site/_assets/media/a445ae764fd192d639a698af76831322.jpg"
+    },
+    {
+      "contentType": "image/jpeg",
+      "id": "3d3934c6d119b546",
+      "kind": "image",
+      "name": "397941548c2fd8f76acbb23448fdc200.jpg",
+      "path": "C:\\Users\\ander\\AppData\\Local\\Temp/browser-use/assets/cc67b328-6296-492d-a6a4-2852452860f6/3d3934c6d119b546.jpg",
+      "url": "https://nandrade.my.canva.site/_assets/media/397941548c2fd8f76acbb23448fdc200.jpg"
+    },
+    {
+      "contentType": "image/jpeg",
+      "id": "1cb27dd49caeb0f3",
+      "kind": "image",
+      "name": "7a9c16b522fdbbcd5aa33d672153de82.jpg",
+      "path": "C:\\Users\\ander\\AppData\\Local\\Temp/browser-use/assets/cc67b328-6296-492d-a6a4-2852452860f6/1cb27dd49caeb0f3.jpg",
+      "url": "https://nandrade.my.canva.site/_assets/media/7a9c16b522fdbbcd5aa33d672153de82.jpg"
+    },
+    {
+      "contentType": "image/jpeg",
+      "id": "1f05d5cdbc3d8c08",
+      "kind": "image",
+      "name": "fab071fa624a7937e6e12352992104d1.jpg",
+      "path": "C:\\Users\\ander\\AppData\\Local\\Temp/browser-use/assets/cc67b328-6296-492d-a6a4-2852452860f6/1f05d5cdbc3d8c08.jpg",
+      "url": "https://nandrade.my.canva.site/_assets/media/fab071fa624a7937e6e12352992104d1.jpg"
+    },
+    {
+      "contentType": "image/png",
+      "id": "3482f03d469b3d0d",
+      "kind": "image",
+      "name": "2d0b56e7e51cf11036ad8734bdb67e2d.png",
+      "path": "C:\\Users\\ander\\AppData\\Local\\Temp/browser-use/assets/cc67b328-6296-492d-a6a4-2852452860f6/3482f03d469b3d0d.png",
+      "url": "https://nandrade.my.canva.site/_assets/images/2d0b56e7e51cf11036ad8734bdb67e2d.png"
+    },
+    {
+      "contentType": "image/jpeg",
+      "id": "c8e60e9d914cc4ea",
+      "kind": "image",
+      "name": "20a94cfb7617f15033ce8ff228310f80.jpg",
+      "path": "C:\\Users\\ander\\AppData\\Local\\Temp/browser-use/assets/cc67b328-6296-492d-a6a4-2852452860f6/c8e60e9d914cc4ea.jpg",
+      "url": "https://nandrade.my.canva.site/_assets/video/20a94cfb7617f15033ce8ff228310f80.jpg"
+    },
+    {
+      "contentType": "image/jpeg",
+      "id": "556db491e55a19c7",
+      "kind": "image",
+      "name": "dc6de9df50b1cf599b5eaac7b2ae5ab7.jpg",
+      "path": "C:\\Users\\ander\\AppData\\Local\\Temp/browser-use/assets/cc67b328-6296-492d-a6a4-2852452860f6/556db491e55a19c7.jpg",
+      "url": "https://nandrade.my.canva.site/_assets/media/dc6de9df50b1cf599b5eaac7b2ae5ab7.jpg"
+    },
+    {
+      "contentType": "image/jpeg",
+      "id": "3b562a1065c6bea2",
+      "kind": "image",
+      "name": "6bb3cfc5e50065b961536004f7d377db.jpg",
+      "path": "C:\\Users\\ander\\AppData\\Local\\Temp/browser-use/assets/cc67b328-6296-492d-a6a4-2852452860f6/3b562a1065c6bea2.jpg",
+      "url": "https://nandrade.my.canva.site/_assets/media/6bb3cfc5e50065b961536004f7d377db.jpg"
+    },
+    {
+      "contentType": "image/png",
+      "id": "142d7a0a8280592d",
+      "kind": "image",
+      "name": "b4f6db2d75f514d73f395c0fb9c520f9.png",
+      "path": "C:\\Users\\ander\\AppData\\Local\\Temp/browser-use/assets/cc67b328-6296-492d-a6a4-2852452860f6/142d7a0a8280592d.png",
+      "url": "https://nandrade.my.canva.site/_assets/media/b4f6db2d75f514d73f395c0fb9c520f9.png"
+    },
+    {
+      "contentType": "image/jpeg",
+      "id": "c4b83073bcb01a6e",
+      "kind": "image",
+      "name": "86176ca785622f2609fba85ca35b63c3.jpg",
+      "path": "C:\\Users\\ander\\AppData\\Local\\Temp/browser-use/assets/cc67b328-6296-492d-a6a4-2852452860f6/c4b83073bcb01a6e.jpg",
+      "url": "https://nandrade.my.canva.site/_assets/media/86176ca785622f2609fba85ca35b63c3.jpg"
+    },
+    {
+      "contentType": "image/png",
+      "id": "b282667173697c52",
+      "kind": "image",
+      "name": "29730a8edc6aa681e328bb370221ee9a.png",
+      "path": "C:\\Users\\ander\\AppData\\Local\\Temp/browser-use/assets/cc67b328-6296-492d-a6a4-2852452860f6/b282667173697c52.png",
+      "url": "https://nandrade.my.canva.site/_assets/media/29730a8edc6aa681e328bb370221ee9a.png"
+    },
+    {
+      "contentType": "image/png",
+      "id": "bbcd34cf3578e68a",
+      "kind": "image",
+      "name": "111ba418d039c9b6cb80d494b1c11f9d.png",
+      "path": "C:\\Users\\ander\\AppData\\Local\\Temp/browser-use/assets/cc67b328-6296-492d-a6a4-2852452860f6/bbcd34cf3578e68a.png",
+      "url": "https://nandrade.my.canva.site/_assets/media/111ba418d039c9b6cb80d494b1c11f9d.png"
+    },
+    {
+      "contentType": "image/jpeg",
+      "id": "4b65e43d34568759",
+      "kind": "image",
+      "name": "4f3c0d1fbb1768d0f4eaf4e822fc73e4.jpg",
+      "path": "C:\\Users\\ander\\AppData\\Local\\Temp/browser-use/assets/cc67b328-6296-492d-a6a4-2852452860f6/4b65e43d34568759.jpg",
+      "url": "https://nandrade.my.canva.site/_assets/video/4f3c0d1fbb1768d0f4eaf4e822fc73e4.jpg"
+    },
+    {
+      "contentType": "image/jpeg",
+      "id": "d82616094233d45d",
+      "kind": "image",
+      "name": "67a9c226f100f9acf8398a0492f5de2c.jpg",
+      "path": "C:\\Users\\ander\\AppData\\Local\\Temp/browser-use/assets/cc67b328-6296-492d-a6a4-2852452860f6/d82616094233d45d.jpg",
+      "url": "https://nandrade.my.canva.site/_assets/video/67a9c226f100f9acf8398a0492f5de2c.jpg"
+    },
+    {
+      "contentType": "image/jpeg",
+      "id": "bdeae67f698121c0",
+      "kind": "image",
+      "name": "14215ebbb2ad8d47de3b48035ed5f261.jpg",
+      "path": "C:\\Users\\ander\\AppData\\Local\\Temp/browser-use/assets/cc67b328-6296-492d-a6a4-2852452860f6/bdeae67f698121c0.jpg",
+      "url": "https://nandrade.my.canva.site/_assets/video/14215ebbb2ad8d47de3b48035ed5f261.jpg"
+    },
+    {
+      "contentType": "image/jpeg",
+      "id": "c7b6b5968c42becb",
+      "kind": "image",
+      "name": "635917fe1c887e493beef97fb65fdb8f.jpg",
+      "path": "C:\\Users\\ander\\AppData\\Local\\Temp/browser-use/assets/cc67b328-6296-492d-a6a4-2852452860f6/c7b6b5968c42becb.jpg",
+      "url": "https://nandrade.my.canva.site/_assets/video/635917fe1c887e493beef97fb65fdb8f.jpg"
+    },
+    {
+      "contentType": "image/jpeg",
+      "id": "3d7e34a2d9e59684",
+      "kind": "image",
+      "name": "738a2acc435d69bc8870ef980ad62c60.jpg",
+      "path": "C:\\Users\\ander\\AppData\\Local\\Temp/browser-use/assets/cc67b328-6296-492d-a6a4-2852452860f6/3d7e34a2d9e59684.jpg",
+      "url": "https://nandrade.my.canva.site/_assets/video/738a2acc435d69bc8870ef980ad62c60.jpg"
+    },
+    {
+      "contentType": "image/jpeg",
+      "id": "f7a125649c93fac4",
+      "kind": "image",
+      "name": "daa59ba809692f32295ab5637085c8ee.jpg",
+      "path": "C:\\Users\\ander\\AppData\\Local\\Temp/browser-use/assets/cc67b328-6296-492d-a6a4-2852452860f6/f7a125649c93fac4.jpg",
+      "url": "https://nandrade.my.canva.site/_assets/video/daa59ba809692f32295ab5637085c8ee.jpg"
+    },
+    {
+      "contentType": "image/jpeg",
+      "id": "ea1d1ed815f5c515",
+      "kind": "image",
+      "name": "921e44646f114ee7c46c6b6cd012e70b.jpg",
+      "path": "C:\\Users\\ander\\AppData\\Local\\Temp/browser-use/assets/cc67b328-6296-492d-a6a4-2852452860f6/ea1d1ed815f5c515.jpg",
+      "url": "https://nandrade.my.canva.site/_assets/video/921e44646f114ee7c46c6b6cd012e70b.jpg"
+    },
+    {
+      "contentType": "image/jpeg",
+      "id": "b209ed510f4d059b",
+      "kind": "image",
+      "name": "9e1035f52d094b5d2f024046a178c776.jpg",
+      "path": "C:\\Users\\ander\\AppData\\Local\\Temp/browser-use/assets/cc67b328-6296-492d-a6a4-2852452860f6/b209ed510f4d059b.jpg",
+      "url": "https://nandrade.my.canva.site/_assets/video/9e1035f52d094b5d2f024046a178c776.jpg"
+    },
+    {
+      "contentType": "image/jpeg",
+      "id": "2f3734a6ef842be6",
+      "kind": "image",
+      "name": "6d6ac68d053b9cef468efaa9c8c82d76.jpg",
+      "path": "C:\\Users\\ander\\AppData\\Local\\Temp/browser-use/assets/cc67b328-6296-492d-a6a4-2852452860f6/2f3734a6ef842be6.jpg",
+      "url": "https://nandrade.my.canva.site/_assets/video/6d6ac68d053b9cef468efaa9c8c82d76.jpg"
+    },
+    {
+      "contentType": "image/jpeg",
+      "id": "17bf6b5a2ce1a564",
+      "kind": "image",
+      "name": "f1aa7b69da9a39c02ccfd45189c0a1fd.jpg",
+      "path": "C:\\Users\\ander\\AppData\\Local\\Temp/browser-use/assets/cc67b328-6296-492d-a6a4-2852452860f6/17bf6b5a2ce1a564.jpg",
+      "url": "https://nandrade.my.canva.site/_assets/video/f1aa7b69da9a39c02ccfd45189c0a1fd.jpg"
+    },
+    {
+      "contentType": "image/jpeg",
+      "id": "5cd47772fa8e75ab",
+      "kind": "image",
+      "name": "b91249bc8fdd30291e12e8aced9caf98.jpg",
+      "path": "C:\\Users\\ander\\AppData\\Local\\Temp/browser-use/assets/cc67b328-6296-492d-a6a4-2852452860f6/5cd47772fa8e75ab.jpg",
+      "url": "https://nandrade.my.canva.site/_assets/video/b91249bc8fdd30291e12e8aced9caf98.jpg"
+    },
+    {
+      "contentType": "image/jpeg",
+      "id": "41592b03d651030d",
+      "kind": "image",
+      "name": "db39021d766fb8dcb0090dcce20304eb.jpg",
+      "path": "C:\\Users\\ander\\AppData\\Local\\Temp/browser-use/assets/cc67b328-6296-492d-a6a4-2852452860f6/41592b03d651030d.jpg",
+      "url": "https://nandrade.my.canva.site/_assets/media/db39021d766fb8dcb0090dcce20304eb.jpg"
+    },
+    {
+      "contentType": "image/jpeg",
+      "id": "4acfa4d00193e118",
+      "kind": "image",
+      "name": "40b74a3bf88c561d04480461e11b4cec.jpg",
+      "path": "C:\\Users\\ander\\AppData\\Local\\Temp/browser-use/assets/cc67b328-6296-492d-a6a4-2852452860f6/4acfa4d00193e118.jpg",
+      "url": "https://nandrade.my.canva.site/_assets/video/40b74a3bf88c561d04480461e11b4cec.jpg"
+    },
+    {
+      "contentType": "image/jpeg",
+      "id": "64d9217cb7d9c6be",
+      "kind": "image",
+      "name": "0e3f7bd9198d19d724701ef88d1c5ede.jpg",
+      "path": "C:\\Users\\ander\\AppData\\Local\\Temp/browser-use/assets/cc67b328-6296-492d-a6a4-2852452860f6/64d9217cb7d9c6be.jpg",
+      "url": "https://nandrade.my.canva.site/_assets/video/0e3f7bd9198d19d724701ef88d1c5ede.jpg"
+    },
+    {
+      "contentType": "image/jpeg",
+      "id": "9c7c58f392decd5a",
+      "kind": "image",
+      "name": "fc1dc2dfe0b94179730e29e1e45b3aa9.jpg",
+      "path": "C:\\Users\\ander\\AppData\\Local\\Temp/browser-use/assets/cc67b328-6296-492d-a6a4-2852452860f6/9c7c58f392decd5a.jpg",
+      "url": "https://nandrade.my.canva.site/_assets/video/fc1dc2dfe0b94179730e29e1e45b3aa9.jpg"
+    },
+    {
+      "contentType": "image/jpeg",
+      "id": "5cf0de31dc5c6aff",
+      "kind": "image",
+      "name": "d75704ce41cae069db1599bc9de000f0.jpg",
+      "path": "C:\\Users\\ander\\AppData\\Local\\Temp/browser-use/assets/cc67b328-6296-492d-a6a4-2852452860f6/5cf0de31dc5c6aff.jpg",
+      "url": "https://nandrade.my.canva.site/_assets/video/d75704ce41cae069db1599bc9de000f0.jpg"
+    },
+    {
+      "contentType": "image/jpeg",
+      "id": "65d0fce39df71a7d",
+      "kind": "image",
+      "name": "5cfb63bcd35af202fa276e7de9a16048.jpg",
+      "path": "C:\\Users\\ander\\AppData\\Local\\Temp/browser-use/assets/cc67b328-6296-492d-a6a4-2852452860f6/65d0fce39df71a7d.jpg",
+      "url": "https://nandrade.my.canva.site/_assets/video/5cfb63bcd35af202fa276e7de9a16048.jpg"
+    },
+    {
+      "contentType": "image/jpeg",
+      "id": "1cc5e23fed0b3015",
+      "kind": "image",
+      "name": "dcac76949e7ac31dc561c437da87649e.jpg",
+      "path": "C:\\Users\\ander\\AppData\\Local\\Temp/browser-use/assets/cc67b328-6296-492d-a6a4-2852452860f6/1cc5e23fed0b3015.jpg",
+      "url": "https://nandrade.my.canva.site/_assets/video/dcac76949e7ac31dc561c437da87649e.jpg"
+    },
+    {
+      "contentType": "image/jpeg",
+      "id": "c0235316f4a531f3",
+      "kind": "image",
+      "name": "9a5b7dfea63a74823e2d2ac8d839eb4f.jpg",
+      "path": "C:\\Users\\ander\\AppData\\Local\\Temp/browser-use/assets/cc67b328-6296-492d-a6a4-2852452860f6/c0235316f4a531f3.jpg",
+      "url": "https://nandrade.my.canva.site/_assets/video/9a5b7dfea63a74823e2d2ac8d839eb4f.jpg"
+    },
+    {
+      "contentType": "image/jpeg",
+      "id": "48465bf42f362ac2",
+      "kind": "image",
+      "name": "587e56b0e1502d89cac0a121226b0e0a.jpg",
+      "path": "C:\\Users\\ander\\AppData\\Local\\Temp/browser-use/assets/cc67b328-6296-492d-a6a4-2852452860f6/48465bf42f362ac2.jpg",
+      "url": "https://nandrade.my.canva.site/_assets/video/587e56b0e1502d89cac0a121226b0e0a.jpg"
+    },
+    {
+      "contentType": "image/jpeg",
+      "id": "ccaaefbbb91f56a6",
+      "kind": "image",
+      "name": "ae3b3b234a626692e997d196dd32cb65.jpg",
+      "path": "C:\\Users\\ander\\AppData\\Local\\Temp/browser-use/assets/cc67b328-6296-492d-a6a4-2852452860f6/ccaaefbbb91f56a6.jpg",
+      "url": "https://nandrade.my.canva.site/_assets/video/ae3b3b234a626692e997d196dd32cb65.jpg"
+    },
+    {
+      "contentType": "image/jpeg",
+      "id": "953730b7b7910bca",
+      "kind": "image",
+      "name": "91cbe57afd376a85c2d38068222bf6e5.jpg",
+      "path": "C:\\Users\\ander\\AppData\\Local\\Temp/browser-use/assets/cc67b328-6296-492d-a6a4-2852452860f6/953730b7b7910bca.jpg",
+      "url": "https://nandrade.my.canva.site/_assets/video/91cbe57afd376a85c2d38068222bf6e5.jpg"
+    },
+    {
+      "contentType": "image/jpeg",
+      "id": "7750ef7b60489493",
+      "kind": "image",
+      "name": "6af40b0ef870bb254cd867d8f9c3dedf.jpg",
+      "path": "C:\\Users\\ander\\AppData\\Local\\Temp/browser-use/assets/cc67b328-6296-492d-a6a4-2852452860f6/7750ef7b60489493.jpg",
+      "url": "https://nandrade.my.canva.site/_assets/video/6af40b0ef870bb254cd867d8f9c3dedf.jpg"
+    },
+    {
+      "contentType": "image/jpeg",
+      "id": "6ffde72d20c3c5b2",
+      "kind": "image",
+      "name": "23fec034618d6a6eacc3b0762ee022fb.jpg",
+      "path": "C:\\Users\\ander\\AppData\\Local\\Temp/browser-use/assets/cc67b328-6296-492d-a6a4-2852452860f6/6ffde72d20c3c5b2.jpg",
+      "url": "https://nandrade.my.canva.site/_assets/media/23fec034618d6a6eacc3b0762ee022fb.jpg"
+    },
+    {
+      "contentType": "image/jpeg",
+      "id": "cdffd1e43198cdcf",
+      "kind": "image",
+      "name": "03bd4d2a1373b89b122880064866b241.jpg",
+      "path": "C:\\Users\\ander\\AppData\\Local\\Temp/browser-use/assets/cc67b328-6296-492d-a6a4-2852452860f6/cdffd1e43198cdcf.jpg",
+      "url": "https://nandrade.my.canva.site/_assets/media/03bd4d2a1373b89b122880064866b241.jpg"
+    },
+    {
+      "contentType": "image/jpeg",
+      "id": "192fe3ae634f68c3",
+      "kind": "image",
+      "name": "3d5cf586a65038d53458e4f527190b6d.jpg",
+      "path": "C:\\Users\\ander\\AppData\\Local\\Temp/browser-use/assets/cc67b328-6296-492d-a6a4-2852452860f6/192fe3ae634f68c3.jpg",
+      "url": "https://nandrade.my.canva.site/_assets/media/3d5cf586a65038d53458e4f527190b6d.jpg"
+    },
+    {
+      "contentType": "image/jpeg",
+      "id": "1f9e0b2eedbc1b02",
+      "kind": "image",
+      "name": "8457ec292527175687d989e3ea6b90c9.jpg",
+      "path": "C:\\Users\\ander\\AppData\\Local\\Temp/browser-use/assets/cc67b328-6296-492d-a6a4-2852452860f6/1f9e0b2eedbc1b02.jpg",
+      "url": "https://nandrade.my.canva.site/_assets/media/8457ec292527175687d989e3ea6b90c9.jpg"
+    },
+    {
+      "contentType": "image/jpeg",
+      "id": "3ca85909b59c19d1",
+      "kind": "image",
+      "name": "9f8454b6b5993b7d4edc9759a48da7cc.jpg",
+      "path": "C:\\Users\\ander\\AppData\\Local\\Temp/browser-use/assets/cc67b328-6296-492d-a6a4-2852452860f6/3ca85909b59c19d1.jpg",
+      "url": "https://nandrade.my.canva.site/_assets/media/9f8454b6b5993b7d4edc9759a48da7cc.jpg"
+    },
+    {
+      "contentType": "image/jpeg",
+      "id": "ba8e8d85b5c4f822",
+      "kind": "image",
+      "name": "0bd9d43602db34f61004fea8a9671a33.jpg",
+      "path": "C:\\Users\\ander\\AppData\\Local\\Temp/browser-use/assets/cc67b328-6296-492d-a6a4-2852452860f6/ba8e8d85b5c4f822.jpg",
+      "url": "https://nandrade.my.canva.site/_assets/media/0bd9d43602db34f61004fea8a9671a33.jpg"
+    },
+    {
+      "contentType": "image/jpeg",
+      "id": "9bef89c2cfd204cb",
+      "kind": "image",
+      "name": "8f8c518ceb28ba15e02504d7f92e999b.jpg",
+      "path": "C:\\Users\\ander\\AppData\\Local\\Temp/browser-use/assets/cc67b328-6296-492d-a6a4-2852452860f6/9bef89c2cfd204cb.jpg",
+      "url": "https://nandrade.my.canva.site/_assets/media/8f8c518ceb28ba15e02504d7f92e999b.jpg"
+    },
+    {
+      "contentType": "image/png",
+      "id": "2991db977f5302b1",
+      "kind": "image",
+      "name": "9b056e8baccea38db7cd6efc168a8dc0.png",
+      "path": "C:\\Users\\ander\\AppData\\Local\\Temp/browser-use/assets/cc67b328-6296-492d-a6a4-2852452860f6/2991db977f5302b1.png",
+      "url": "https://nandrade.my.canva.site/_assets/media/9b056e8baccea38db7cd6efc168a8dc0.png"
+    },
+    {
+      "contentType": "image/png",
+      "id": "562f1e42b93215ed",
+      "kind": "image",
+      "name": "96c8ec4790ff144cd025486a7a5b8156.png",
+      "path": "C:\\Users\\ander\\AppData\\Local\\Temp/browser-use/assets/cc67b328-6296-492d-a6a4-2852452860f6/562f1e42b93215ed.png",
+      "url": "https://nandrade.my.canva.site/_assets/media/96c8ec4790ff144cd025486a7a5b8156.png"
+    },
+    {
+      "contentType": "image/jpeg",
+      "id": "84d7714a804da77d",
+      "kind": "image",
+      "name": "b8f5f6283f7431aa35df912794fd33d7.jpg",
+      "path": "C:\\Users\\ander\\AppData\\Local\\Temp/browser-use/assets/cc67b328-6296-492d-a6a4-2852452860f6/84d7714a804da77d.jpg",
+      "url": "https://nandrade.my.canva.site/_assets/media/b8f5f6283f7431aa35df912794fd33d7.jpg"
+    },
+    {
+      "contentType": "image/png",
+      "id": "55fb5fd541e6cc8c",
+      "kind": "image",
+      "name": "ba450596de0add5fa7b69c3279fae485.png",
+      "path": "C:\\Users\\ander\\AppData\\Local\\Temp/browser-use/assets/cc67b328-6296-492d-a6a4-2852452860f6/55fb5fd541e6cc8c.png",
+      "url": "https://nandrade.my.canva.site/_assets/media/ba450596de0add5fa7b69c3279fae485.png"
+    },
+    {
+      "contentType": "image/png",
+      "id": "89a04b99f1904e43",
+      "kind": "image",
+      "name": "1bd523b688430f8039676b56a865c7f1.png",
+      "path": "C:\\Users\\ander\\AppData\\Local\\Temp/browser-use/assets/cc67b328-6296-492d-a6a4-2852452860f6/89a04b99f1904e43.png",
+      "url": "https://nandrade.my.canva.site/_assets/media/1bd523b688430f8039676b56a865c7f1.png"
+    },
+    {
+      "contentType": "image/jpeg",
+      "id": "e4c67e60daa023ed",
+      "kind": "image",
+      "name": "596d9f2e4dd8b670bcde3def7989f474.jpg",
+      "path": "C:\\Users\\ander\\AppData\\Local\\Temp/browser-use/assets/cc67b328-6296-492d-a6a4-2852452860f6/e4c67e60daa023ed.jpg",
+      "url": "https://nandrade.my.canva.site/_assets/media/596d9f2e4dd8b670bcde3def7989f474.jpg"
+    },
+    {
+      "contentType": "image/jpeg",
+      "id": "140d2808b6b8dfb7",
+      "kind": "image",
+      "name": "0cd2b9048fce5a579222249fe71bb26a.jpg",
+      "path": "C:\\Users\\ander\\AppData\\Local\\Temp/browser-use/assets/cc67b328-6296-492d-a6a4-2852452860f6/140d2808b6b8dfb7.jpg",
+      "url": "https://nandrade.my.canva.site/_assets/media/0cd2b9048fce5a579222249fe71bb26a.jpg"
+    },
+    {
+      "contentType": "image/jpeg",
+      "id": "c6b2ac232a839f7b",
+      "kind": "image",
+      "name": "9766debb3c7e0b656bc15520f06973a9.jpg",
+      "path": "C:\\Users\\ander\\AppData\\Local\\Temp/browser-use/assets/cc67b328-6296-492d-a6a4-2852452860f6/c6b2ac232a839f7b.jpg",
+      "url": "https://nandrade.my.canva.site/_assets/media/9766debb3c7e0b656bc15520f06973a9.jpg"
+    },
+    {
+      "contentType": "image/png",
+      "id": "ba3ee141e9dea7bd",
+      "kind": "image",
+      "name": "b1b1879c37b55d524b1da35144bbfe2e.png",
+      "path": "C:\\Users\\ander\\AppData\\Local\\Temp/browser-use/assets/cc67b328-6296-492d-a6a4-2852452860f6/ba3ee141e9dea7bd.png",
+      "url": "https://nandrade.my.canva.site/_assets/media/b1b1879c37b55d524b1da35144bbfe2e.png"
+    },
+    {
+      "contentType": "image/jpeg",
+      "id": "ee3ce300a3d1adf3",
+      "kind": "image",
+      "name": "86269b84a98660e337b2ac6770b292e1.jpg",
+      "path": "C:\\Users\\ander\\AppData\\Local\\Temp/browser-use/assets/cc67b328-6296-492d-a6a4-2852452860f6/ee3ce300a3d1adf3.jpg",
+      "url": "https://nandrade.my.canva.site/_assets/media/86269b84a98660e337b2ac6770b292e1.jpg"
+    },
+    {
+      "contentType": "image/jpeg",
+      "id": "9eb28a56a2c7bcce",
+      "kind": "image",
+      "name": "30570cba9e958cb3035e261751ef38c5.jpg",
+      "path": "C:\\Users\\ander\\AppData\\Local\\Temp/browser-use/assets/cc67b328-6296-492d-a6a4-2852452860f6/9eb28a56a2c7bcce.jpg",
+      "url": "https://nandrade.my.canva.site/_assets/media/30570cba9e958cb3035e261751ef38c5.jpg"
+    },
+    {
+      "contentType": "image/jpeg",
+      "id": "0fd094fdc5bd31f2",
+      "kind": "image",
+      "name": "984f827daa2a5c7bd0d67aef1272bc46.jpg",
+      "path": "C:\\Users\\ander\\AppData\\Local\\Temp/browser-use/assets/cc67b328-6296-492d-a6a4-2852452860f6/0fd094fdc5bd31f2.jpg",
+      "url": "https://nandrade.my.canva.site/_assets/media/984f827daa2a5c7bd0d67aef1272bc46.jpg"
+    },
+    {
+      "contentType": "image/jpeg",
+      "id": "144225f1214da565",
+      "kind": "image",
+      "name": "232390c8585cb9dededdf1780eb7fd84.jpg",
+      "path": "C:\\Users\\ander\\AppData\\Local\\Temp/browser-use/assets/cc67b328-6296-492d-a6a4-2852452860f6/144225f1214da565.jpg",
+      "url": "https://nandrade.my.canva.site/_assets/media/232390c8585cb9dededdf1780eb7fd84.jpg"
+    },
+    {
+      "contentType": "image/jpeg",
+      "id": "bd07fea6fc69eba1",
+      "kind": "image",
+      "name": "57496e4f2be22e7dcb7c0936973bf2de.jpg",
+      "path": "C:\\Users\\ander\\AppData\\Local\\Temp/browser-use/assets/cc67b328-6296-492d-a6a4-2852452860f6/bd07fea6fc69eba1.jpg",
+      "url": "https://nandrade.my.canva.site/_assets/media/57496e4f2be22e7dcb7c0936973bf2de.jpg"
+    },
+    {
+      "contentType": "image/jpeg",
+      "id": "3068b58b55043d92",
+      "kind": "image",
+      "name": "0e45034e0b1414d620b1275a5e02a732.jpg",
+      "path": "C:\\Users\\ander\\AppData\\Local\\Temp/browser-use/assets/cc67b328-6296-492d-a6a4-2852452860f6/3068b58b55043d92.jpg",
+      "url": "https://nandrade.my.canva.site/_assets/media/0e45034e0b1414d620b1275a5e02a732.jpg"
+    },
+    {
+      "contentType": "image/jpeg",
+      "id": "05a3ed5eb9cccdb2",
+      "kind": "image",
+      "name": "65f6df16eeeee4730cd55f0141bced47.jpg",
+      "path": "C:\\Users\\ander\\AppData\\Local\\Temp/browser-use/assets/cc67b328-6296-492d-a6a4-2852452860f6/05a3ed5eb9cccdb2.jpg",
+      "url": "https://nandrade.my.canva.site/_assets/media/65f6df16eeeee4730cd55f0141bced47.jpg"
+    },
+    {
+      "contentType": "image/jpeg",
+      "id": "15a66dfd283419e8",
+      "kind": "image",
+      "name": "7ee1542448429db20e0e304e029c2cc0.jpg",
+      "path": "C:\\Users\\ander\\AppData\\Local\\Temp/browser-use/assets/cc67b328-6296-492d-a6a4-2852452860f6/15a66dfd283419e8.jpg",
+      "url": "https://nandrade.my.canva.site/_assets/media/7ee1542448429db20e0e304e029c2cc0.jpg"
+    },
+    {
+      "contentType": "image/jpeg",
+      "id": "2956749f0cb06c2c",
+      "kind": "image",
+      "name": "6962336125c38f26cf6d428bb3f9dc68.jpg",
+      "path": "C:\\Users\\ander\\AppData\\Local\\Temp/browser-use/assets/cc67b328-6296-492d-a6a4-2852452860f6/2956749f0cb06c2c.jpg",
+      "url": "https://nandrade.my.canva.site/_assets/media/6962336125c38f26cf6d428bb3f9dc68.jpg"
+    },
+    {
+      "contentType": "image/jpeg",
+      "id": "7db7eeb2b1a87051",
+      "kind": "image",
+      "name": "8339ec1b960a8a182e084c92750ec434.jpg",
+      "path": "C:\\Users\\ander\\AppData\\Local\\Temp/browser-use/assets/cc67b328-6296-492d-a6a4-2852452860f6/7db7eeb2b1a87051.jpg",
+      "url": "https://nandrade.my.canva.site/_assets/media/8339ec1b960a8a182e084c92750ec434.jpg"
+    },
+    {
+      "contentType": "image/jpeg",
+      "id": "7d962e9f0e33b866",
+      "kind": "image",
+      "name": "f1d8ba1ec481bf2d6cdf05a1c99719c8.jpg",
+      "path": "C:\\Users\\ander\\AppData\\Local\\Temp/browser-use/assets/cc67b328-6296-492d-a6a4-2852452860f6/7d962e9f0e33b866.jpg",
+      "url": "https://nandrade.my.canva.site/_assets/media/f1d8ba1ec481bf2d6cdf05a1c99719c8.jpg"
+    },
+    {
+      "contentType": "image/jpeg",
+      "id": "b41b7a16ac9fa9fd",
+      "kind": "image",
+      "name": "601ff2a657fce1fdd29e00881a55461c.jpg",
+      "path": "C:\\Users\\ander\\AppData\\Local\\Temp/browser-use/assets/cc67b328-6296-492d-a6a4-2852452860f6/b41b7a16ac9fa9fd.jpg",
+      "url": "https://nandrade.my.canva.site/_assets/media/601ff2a657fce1fdd29e00881a55461c.jpg"
+    },
+    {
+      "contentType": "image/jpeg",
+      "id": "460101122c7c4814",
+      "kind": "image",
+      "name": "099a21f420e99b00d45138a13a601beb.jpg",
+      "path": "C:\\Users\\ander\\AppData\\Local\\Temp/browser-use/assets/cc67b328-6296-492d-a6a4-2852452860f6/460101122c7c4814.jpg",
+      "url": "https://nandrade.my.canva.site/_assets/media/099a21f420e99b00d45138a13a601beb.jpg"
+    },
+    {
+      "contentType": "image/jpeg",
+      "id": "50bb67d9366e6a83",
+      "kind": "image",
+      "name": "bd5c87502a09ce55a76904bffe85c26e.jpg",
+      "path": "C:\\Users\\ander\\AppData\\Local\\Temp/browser-use/assets/cc67b328-6296-492d-a6a4-2852452860f6/50bb67d9366e6a83.jpg",
+      "url": "https://nandrade.my.canva.site/_assets/media/bd5c87502a09ce55a76904bffe85c26e.jpg"
+    },
+    {
+      "contentType": "image/jpeg",
+      "id": "1b00c54b005fb74b",
+      "kind": "image",
+      "name": "91281d405a4232e5720c5c01acd59cc7.jpg",
+      "path": "C:\\Users\\ander\\AppData\\Local\\Temp/browser-use/assets/cc67b328-6296-492d-a6a4-2852452860f6/1b00c54b005fb74b.jpg",
+      "url": "https://nandrade.my.canva.site/_assets/media/91281d405a4232e5720c5c01acd59cc7.jpg"
+    },
+    {
+      "contentType": "image/jpeg",
+      "id": "1ab25d42e52d462a",
+      "kind": "image",
+      "name": "7406e5554e69f9ac28fafda4091aa772.jpg",
+      "path": "C:\\Users\\ander\\AppData\\Local\\Temp/browser-use/assets/cc67b328-6296-492d-a6a4-2852452860f6/1ab25d42e52d462a.jpg",
+      "url": "https://nandrade.my.canva.site/_assets/media/7406e5554e69f9ac28fafda4091aa772.jpg"
+    },
+    {
+      "contentType": "image/jpeg",
+      "id": "42b24a155edb0a45",
+      "kind": "image",
+      "name": "73e65d855e96254bf076379484e9974b.jpg",
+      "path": "C:\\Users\\ander\\AppData\\Local\\Temp/browser-use/assets/cc67b328-6296-492d-a6a4-2852452860f6/42b24a155edb0a45.jpg",
+      "url": "https://nandrade.my.canva.site/_assets/media/73e65d855e96254bf076379484e9974b.jpg"
+    },
+    {
+      "contentType": "image/jpeg",
+      "id": "258dd5a1ddc52982",
+      "kind": "image",
+      "name": "247392d3f7a4e04b3fdaa7e8eeabb31d.jpg",
+      "path": "C:\\Users\\ander\\AppData\\Local\\Temp/browser-use/assets/cc67b328-6296-492d-a6a4-2852452860f6/258dd5a1ddc52982.jpg",
+      "url": "https://nandrade.my.canva.site/_assets/media/247392d3f7a4e04b3fdaa7e8eeabb31d.jpg"
+    },
+    {
+      "contentType": "image/jpeg",
+      "id": "9760bcee3af3134e",
+      "kind": "image",
+      "name": "ccce481ed5002460514107e6b37ed038.jpg",
+      "path": "C:\\Users\\ander\\AppData\\Local\\Temp/browser-use/assets/cc67b328-6296-492d-a6a4-2852452860f6/9760bcee3af3134e.jpg",
+      "url": "https://nandrade.my.canva.site/_assets/media/ccce481ed5002460514107e6b37ed038.jpg"
+    },
+    {
+      "contentType": "image/jpeg",
+      "id": "e1f2e8dc0dfb2f56",
+      "kind": "image",
+      "name": "2eef40e5a9d1bf6555032bc0e73007eb.jpg",
+      "path": "C:\\Users\\ander\\AppData\\Local\\Temp/browser-use/assets/cc67b328-6296-492d-a6a4-2852452860f6/e1f2e8dc0dfb2f56.jpg",
+      "url": "https://nandrade.my.canva.site/_assets/media/2eef40e5a9d1bf6555032bc0e73007eb.jpg"
+    },
+    {
+      "contentType": "image/jpeg",
+      "id": "9cada3b04c88589b",
+      "kind": "image",
+      "name": "52b4db2b9faae11d874888ff0fada34e.jpg",
+      "path": "C:\\Users\\ander\\AppData\\Local\\Temp/browser-use/assets/cc67b328-6296-492d-a6a4-2852452860f6/9cada3b04c88589b.jpg",
+      "url": "https://nandrade.my.canva.site/_assets/media/52b4db2b9faae11d874888ff0fada34e.jpg"
+    },
+    {
+      "contentType": "image/jpeg",
+      "id": "6f79a926da40f72a",
+      "kind": "image",
+      "name": "d88da60dd7101f06aa119a94e66008cf.jpg",
+      "path": "C:\\Users\\ander\\AppData\\Local\\Temp/browser-use/assets/cc67b328-6296-492d-a6a4-2852452860f6/6f79a926da40f72a.jpg",
+      "url": "https://nandrade.my.canva.site/_assets/media/d88da60dd7101f06aa119a94e66008cf.jpg"
+    },
+    {
+      "contentType": "image/jpeg",
+      "id": "8ff7d757919d9ec2",
+      "kind": "image",
+      "name": "40c30cf937d7260055d460ab97eecfbe.jpg",
+      "path": "C:\\Users\\ander\\AppData\\Local\\Temp/browser-use/assets/cc67b328-6296-492d-a6a4-2852452860f6/8ff7d757919d9ec2.jpg",
+      "url": "https://nandrade.my.canva.site/_assets/media/40c30cf937d7260055d460ab97eecfbe.jpg"
+    },
+    {
+      "contentType": "image/jpeg",
+      "id": "480a9db2ec9258e7",
+      "kind": "image",
+      "name": "ec05df05e798a399088fb6ee825f994d.jpg",
+      "path": "C:\\Users\\ander\\AppData\\Local\\Temp/browser-use/assets/cc67b328-6296-492d-a6a4-2852452860f6/480a9db2ec9258e7.jpg",
+      "url": "https://nandrade.my.canva.site/_assets/media/ec05df05e798a399088fb6ee825f994d.jpg"
+    },
+    {
+      "contentType": "image/jpeg",
+      "id": "33584953dca49ba8",
+      "kind": "image",
+      "name": "a63fab6dcaed4af8c90d2654b1efd49b.jpg",
+      "path": "C:\\Users\\ander\\AppData\\Local\\Temp/browser-use/assets/cc67b328-6296-492d-a6a4-2852452860f6/33584953dca49ba8.jpg",
+      "url": "https://nandrade.my.canva.site/_assets/media/a63fab6dcaed4af8c90d2654b1efd49b.jpg"
+    },
+    {
+      "contentType": "image/jpeg",
+      "id": "8638941cd208765d",
+      "kind": "image",
+      "name": "bc2ba37eb13c847eea2fc02386f89b25.jpg",
+      "path": "C:\\Users\\ander\\AppData\\Local\\Temp/browser-use/assets/cc67b328-6296-492d-a6a4-2852452860f6/8638941cd208765d.jpg",
+      "url": "https://nandrade.my.canva.site/_assets/media/bc2ba37eb13c847eea2fc02386f89b25.jpg"
+    },
+    {
+      "contentType": "image/jpeg",
+      "id": "6de772433c1a05b5",
+      "kind": "image",
+      "name": "644dd4ccefa0de9bdd0650fd1726f185.jpg",
+      "path": "C:\\Users\\ander\\AppData\\Local\\Temp/browser-use/assets/cc67b328-6296-492d-a6a4-2852452860f6/6de772433c1a05b5.jpg",
+      "url": "https://nandrade.my.canva.site/_assets/media/644dd4ccefa0de9bdd0650fd1726f185.jpg"
+    },
+    {
+      "contentType": "image/jpeg",
+      "id": "9ee5f8688d9cb430",
+      "kind": "image",
+      "name": "1c6ec68e97bfc586f44b1c3ede8d1dc4.jpg",
+      "path": "C:\\Users\\ander\\AppData\\Local\\Temp/browser-use/assets/cc67b328-6296-492d-a6a4-2852452860f6/9ee5f8688d9cb430.jpg",
+      "url": "https://nandrade.my.canva.site/_assets/media/1c6ec68e97bfc586f44b1c3ede8d1dc4.jpg"
+    },
+    {
+      "contentType": "image/jpeg",
+      "id": "cb005a2b339b6eff",
+      "kind": "image",
+      "name": "0e70a966ce713819d0675fcafbbc24c8.jpg",
+      "path": "C:\\Users\\ander\\AppData\\Local\\Temp/browser-use/assets/cc67b328-6296-492d-a6a4-2852452860f6/cb005a2b339b6eff.jpg",
+      "url": "https://nandrade.my.canva.site/_assets/media/0e70a966ce713819d0675fcafbbc24c8.jpg"
+    },
+    {
+      "contentType": "image/jpeg",
+      "id": "09bc3b6727eb1040",
+      "kind": "image",
+      "name": "4ac0921fff721890469b36f86cfddc7c.jpg",
+      "path": "C:\\Users\\ander\\AppData\\Local\\Temp/browser-use/assets/cc67b328-6296-492d-a6a4-2852452860f6/09bc3b6727eb1040.jpg",
+      "url": "https://nandrade.my.canva.site/_assets/media/4ac0921fff721890469b36f86cfddc7c.jpg"
+    },
+    {
+      "contentType": "image/jpeg",
+      "id": "300d4df1bbb0be48",
+      "kind": "image",
+      "name": "ee8d951983e10fde721ac9f3e21aae92.jpg",
+      "path": "C:\\Users\\ander\\AppData\\Local\\Temp/browser-use/assets/cc67b328-6296-492d-a6a4-2852452860f6/300d4df1bbb0be48.jpg",
+      "url": "https://nandrade.my.canva.site/_assets/media/ee8d951983e10fde721ac9f3e21aae92.jpg"
+    },
+    {
+      "contentType": "image/jpeg",
+      "id": "8e3ed0c667c43878",
+      "kind": "image",
+      "name": "c7e6bfdefa2dd5a6a3b36edc0b81d38d.jpg",
+      "path": "C:\\Users\\ander\\AppData\\Local\\Temp/browser-use/assets/cc67b328-6296-492d-a6a4-2852452860f6/8e3ed0c667c43878.jpg",
+      "url": "https://nandrade.my.canva.site/_assets/media/c7e6bfdefa2dd5a6a3b36edc0b81d38d.jpg"
+    },
+    {
+      "contentType": "image/jpeg",
+      "id": "514693d60f8b518a",
+      "kind": "image",
+      "name": "dccdf6cf44d76632bbb17061f9462805.jpg",
+      "path": "C:\\Users\\ander\\AppData\\Local\\Temp/browser-use/assets/cc67b328-6296-492d-a6a4-2852452860f6/514693d60f8b518a.jpg",
+      "url": "https://nandrade.my.canva.site/_assets/media/dccdf6cf44d76632bbb17061f9462805.jpg"
+    },
+    {
+      "contentType": "image/jpeg",
+      "id": "6f87d84529e29441",
+      "kind": "image",
+      "name": "36ec2642eae774d5eee6117096ba4ef7.jpg",
+      "path": "C:\\Users\\ander\\AppData\\Local\\Temp/browser-use/assets/cc67b328-6296-492d-a6a4-2852452860f6/6f87d84529e29441.jpg",
+      "url": "https://nandrade.my.canva.site/_assets/media/36ec2642eae774d5eee6117096ba4ef7.jpg"
+    },
+    {
+      "contentType": "image/jpeg",
+      "id": "729291b74560b09f",
+      "kind": "image",
+      "name": "b087740cccc6c93cd1e37d3c9b04641a.jpg",
+      "path": "C:\\Users\\ander\\AppData\\Local\\Temp/browser-use/assets/cc67b328-6296-492d-a6a4-2852452860f6/729291b74560b09f.jpg",
+      "url": "https://nandrade.my.canva.site/_assets/media/b087740cccc6c93cd1e37d3c9b04641a.jpg"
+    },
+    {
+      "contentType": "image/jpeg",
+      "id": "f59bb3b370eb158a",
+      "kind": "image",
+      "name": "8573b8a06fc01499d11e4114cbb853bd.jpg",
+      "path": "C:\\Users\\ander\\AppData\\Local\\Temp/browser-use/assets/cc67b328-6296-492d-a6a4-2852452860f6/f59bb3b370eb158a.jpg",
+      "url": "https://nandrade.my.canva.site/_assets/media/8573b8a06fc01499d11e4114cbb853bd.jpg"
+    },
+    {
+      "contentType": "image/jpeg",
+      "id": "294ccaa6cccf925b",
+      "kind": "image",
+      "name": "0e0e4d657327c66660ca6828dfada85c.jpg",
+      "path": "C:\\Users\\ander\\AppData\\Local\\Temp/browser-use/assets/cc67b328-6296-492d-a6a4-2852452860f6/294ccaa6cccf925b.jpg",
+      "url": "https://nandrade.my.canva.site/_assets/media/0e0e4d657327c66660ca6828dfada85c.jpg"
+    },
+    {
+      "contentType": "image/jpeg",
+      "id": "980beb09842d6e45",
+      "kind": "image",
+      "name": "2d6f959f01de17e8f122bc4cd4ea1676.jpg",
+      "path": "C:\\Users\\ander\\AppData\\Local\\Temp/browser-use/assets/cc67b328-6296-492d-a6a4-2852452860f6/980beb09842d6e45.jpg",
+      "url": "https://nandrade.my.canva.site/_assets/media/2d6f959f01de17e8f122bc4cd4ea1676.jpg"
+    },
+    {
+      "contentType": "image/jpeg",
+      "id": "b3ab118c9ae157c6",
+      "kind": "image",
+      "name": "f9238997f459fd0fbc406715cbe28b50.jpg",
+      "path": "C:\\Users\\ander\\AppData\\Local\\Temp/browser-use/assets/cc67b328-6296-492d-a6a4-2852452860f6/b3ab118c9ae157c6.jpg",
+      "url": "https://nandrade.my.canva.site/_assets/media/f9238997f459fd0fbc406715cbe28b50.jpg"
+    },
+    {
+      "contentType": "image/jpeg",
+      "id": "039f7ad1c7a3e06f",
+      "kind": "image",
+      "name": "5bbc0dc5603fa65612b8619cfeb79c88.jpg",
+      "path": "C:\\Users\\ander\\AppData\\Local\\Temp/browser-use/assets/cc67b328-6296-492d-a6a4-2852452860f6/039f7ad1c7a3e06f.jpg",
+      "url": "https://nandrade.my.canva.site/_assets/media/5bbc0dc5603fa65612b8619cfeb79c88.jpg"
+    },
+    {
+      "contentType": "image/jpeg",
+      "id": "bd655eba5abd8cff",
+      "kind": "image",
+      "name": "a0c607049573ac4d4e2447aae0f5491a.jpg",
+      "path": "C:\\Users\\ander\\AppData\\Local\\Temp/browser-use/assets/cc67b328-6296-492d-a6a4-2852452860f6/bd655eba5abd8cff.jpg",
+      "url": "https://nandrade.my.canva.site/_assets/media/a0c607049573ac4d4e2447aae0f5491a.jpg"
+    },
+    {
+      "contentType": "image/jpeg",
+      "id": "67e56ba312c6e0a2",
+      "kind": "image",
+      "name": "2296cfb860beeb448adbdc6849ff8a3d.jpg",
+      "path": "C:\\Users\\ander\\AppData\\Local\\Temp/browser-use/assets/cc67b328-6296-492d-a6a4-2852452860f6/67e56ba312c6e0a2.jpg",
+      "url": "https://nandrade.my.canva.site/_assets/media/2296cfb860beeb448adbdc6849ff8a3d.jpg"
+    },
+    {
+      "contentType": "image/jpeg",
+      "id": "0958f59a522e5255",
+      "kind": "image",
+      "name": "7acc881e63ba9a93dae7061455dcf3c8.jpg",
+      "path": "C:\\Users\\ander\\AppData\\Local\\Temp/browser-use/assets/cc67b328-6296-492d-a6a4-2852452860f6/0958f59a522e5255.jpg",
+      "url": "https://nandrade.my.canva.site/_assets/media/7acc881e63ba9a93dae7061455dcf3c8.jpg"
+    },
+    {
+      "contentType": "image/jpeg",
+      "id": "43527f851efdfd9b",
+      "kind": "image",
+      "name": "7d4d80e46f14ac2ca09ece08297bb97f.jpg",
+      "path": "C:\\Users\\ander\\AppData\\Local\\Temp/browser-use/assets/cc67b328-6296-492d-a6a4-2852452860f6/43527f851efdfd9b.jpg",
+      "url": "https://nandrade.my.canva.site/_assets/media/7d4d80e46f14ac2ca09ece08297bb97f.jpg"
+    },
+    {
+      "contentType": "image/jpeg",
+      "id": "598bd05a9cbd5bde",
+      "kind": "image",
+      "name": "06a637e08620d6a8f541f2c2f560df91.jpg",
+      "path": "C:\\Users\\ander\\AppData\\Local\\Temp/browser-use/assets/cc67b328-6296-492d-a6a4-2852452860f6/598bd05a9cbd5bde.jpg",
+      "url": "https://nandrade.my.canva.site/_assets/media/06a637e08620d6a8f541f2c2f560df91.jpg"
+    },
+    {
+      "contentType": "image/jpeg",
+      "id": "cae851d27a9a98e5",
+      "kind": "image",
+      "name": "a357586696ff1e29541f3f0bf110e638.jpg",
+      "path": "C:\\Users\\ander\\AppData\\Local\\Temp/browser-use/assets/cc67b328-6296-492d-a6a4-2852452860f6/cae851d27a9a98e5.jpg",
+      "url": "https://nandrade.my.canva.site/_assets/media/a357586696ff1e29541f3f0bf110e638.jpg"
+    },
+    {
+      "contentType": "image/jpeg",
+      "id": "7e9a7b67c9100a06",
+      "kind": "image",
+      "name": "a0a97cc12537777f015a233acc24efc7.jpg",
+      "path": "C:\\Users\\ander\\AppData\\Local\\Temp/browser-use/assets/cc67b328-6296-492d-a6a4-2852452860f6/7e9a7b67c9100a06.jpg",
+      "url": "https://nandrade.my.canva.site/_assets/media/a0a97cc12537777f015a233acc24efc7.jpg"
+    },
+    {
+      "contentType": "image/jpeg",
+      "id": "657c3561283ef2bc",
+      "kind": "image",
+      "name": "e5e8f72ecb4512026b4ed1b3bd6931b1.jpg",
+      "path": "C:\\Users\\ander\\AppData\\Local\\Temp/browser-use/assets/cc67b328-6296-492d-a6a4-2852452860f6/657c3561283ef2bc.jpg",
+      "url": "https://nandrade.my.canva.site/_assets/video/e5e8f72ecb4512026b4ed1b3bd6931b1.jpg"
+    },
+    {
+      "contentType": "image/jpeg",
+      "id": "b35111cfd2114950",
+      "kind": "image",
+      "name": "3d072cc5898a3055d43b3bb7224831c0.jpg",
+      "path": "C:\\Users\\ander\\AppData\\Local\\Temp/browser-use/assets/cc67b328-6296-492d-a6a4-2852452860f6/b35111cfd2114950.jpg",
+      "url": "https://nandrade.my.canva.site/_assets/video/3d072cc5898a3055d43b3bb7224831c0.jpg"
+    },
+    {
+      "contentType": "image/jpeg",
+      "id": "76c8fb8f6d2b8de7",
+      "kind": "image",
+      "name": "e58c3c267dd1af7053eb7ad898797d8a.jpg",
+      "path": "C:\\Users\\ander\\AppData\\Local\\Temp/browser-use/assets/cc67b328-6296-492d-a6a4-2852452860f6/76c8fb8f6d2b8de7.jpg",
+      "url": "https://nandrade.my.canva.site/_assets/media/e58c3c267dd1af7053eb7ad898797d8a.jpg"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "16647f16092730a7",
+      "kind": "image",
+      "name": "svg-1",
+      "path": "C:\\Users\\ander\\AppData\\Local\\Temp/browser-use/assets/cc67b328-6296-492d-a6a4-2852452860f6/16647f16092730a7.svg",
+      "url": "inline-svg:16647f16092730a7"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "7b4619868654092d",
+      "kind": "image",
+      "name": "svg-2",
+      "path": "C:\\Users\\ander\\AppData\\Local\\Temp/browser-use/assets/cc67b328-6296-492d-a6a4-2852452860f6/7b4619868654092d.svg",
+      "url": "inline-svg:7b4619868654092d"
+    }
+  ],
+  "failures": []
+}
