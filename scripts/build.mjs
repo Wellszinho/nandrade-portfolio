@@ -3,7 +3,7 @@ import {fileURLToPath} from 'node:url';
 import {join,dirname} from 'node:path';
 import {projects, photos, services, profile} from '../src/content.mjs';
 const root=dirname(dirname(fileURLToPath(import.meta.url)));
-profile.siteUrl=(process.env.SITE_URL||profile.siteUrl).replace(/\/$/,'');
+profile.siteUrl=(process.env.SITE_URL||process.env.RENDER_EXTERNAL_URL||profile.siteUrl).replace(/\/$/,'');
 const esc=s=>String(s??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
 export const arrow='<svg viewBox="0 0 24 24" fill="none" aria-hidden="true"><path d="M5 19 19 5M5 5h14v14" stroke="currentColor" stroke-width="1.5"/></svg>';
 const dimensions=JSON.parse(await readFile(join(root,'src/image-dimensions.json'),'utf8'));
