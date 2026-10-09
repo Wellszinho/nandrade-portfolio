@@ -1,0 +1,10 @@
+services:
+  - type: web
+    name: nandrade-portfolio
+    runtime: static
+    buildCommand: npm run build && npm run check
+    staticPublishPath: dist
+    autoDeployTrigger: commit
+    envVars:
+      - key: SITE_URL
+        sync: false

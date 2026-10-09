@@ -1,0 +1,5 @@
+node_modules/
+.openai/*.tar.gz
+.openai/local/
+docs/contact-sheet.jpg
+docs/screenshots/
