@@ -5,7 +5,7 @@ export const profile = {
   behance: 'https://www.behance.net/natliaribeiro2',
   linkedin: 'https://www.linkedin.com/in/nat%C3%A1lia-de-andrade-ribeiro-186223199/',
   source: 'https://nandrade.my.canva.site/',
-  siteUrl: 'https://nandrade-portfolio.flowysnipe3.chatgpt.site',
+  siteUrl: 'https://nandrade-portfolio.onrender.com',
   reel: 'assets/portfolio-2024.mp4', reelPoster: '7799efc7ab57ca6c59d6d160dbb956c5',
 };
 
