@@ -6,5 +6,5 @@ services:
     staticPublishPath: dist
     autoDeployTrigger: commit
     envVars:
-      - key: SITE_URL
-        sync: false
+      - key: SKIP_INSTALL_DEPS
+        value: "true"

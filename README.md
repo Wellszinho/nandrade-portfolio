@@ -35,13 +35,17 @@ Para acrescentar uma imagem, preserve o original, gere uma cópia WebP em `dist/
 As legendas Retrato e luz, Cor e presença, Encontros e Gestos são títulos editoriais para a curadoria, e não nomes de clientes ou de ensaios atribuídos à autora. As funções individuais e a direção de Amanda Íris foram mantidas no case Movimentos Marinhos. Não há depoimentos, métricas nem clientes inventados.
 
 ## Publicação
-A hospedagem pública usa Render Static Site e o repositório `Wellszinho/nandrade-portfolio`. Configure `npm run build && npm run check` como build e `dist` como pasta publicada. Defina `SITE_URL` com o endereço público do Render; o build usa essa variável em canonical, Open Graph, robots e sitemap. O arquivo `render.yaml` registra essa configuração e a atualização automática após commits em main.
+Site público: https://nandrade-portfolio.onrender.com
+
+Repositório: https://github.com/Wellszinho/nandrade-portfolio
+
+A hospedagem pública usa Render Static Site e o repositório `Wellszinho/nandrade-portfolio`. Configure `npm run build && npm run check` como build e `dist` como pasta publicada. O build usa automaticamente o endereço fornecido pelo Render (`RENDER_EXTERNAL_URL`) em canonical, Open Graph, robots e sitemap. Para um domínio próprio, defina `SITE_URL`, que tem prioridade. O arquivo `render.yaml` registra essa configuração e a atualização automática após commits em main.
 
 A versão de revisão é publicada via Sites em modo privado. A identidade está registrada no manifesto; reutilize esse projeto em atualizações. O fluxo Sites sincroniza o código, gera um pacote da pasta `dist` e publica a versão salva. Não recrie o Site nem altere seu ID.
 
 Para hospedagem estática em outro provedor, envie apenas o conteúdo de `dist/`, preservando a pasta `cases/` e `assets/`. Ao confirmar um novo domínio, atualize `profile.siteUrl` em `src/content.mjs` e execute `npm run build` para corrigir canonical, Open Graph e sitemap. Configure MIME para `.mjs` como JavaScript e suporte a requisições Range para vídeo. A hospedagem estática do Sites fornece essa infraestrutura.
 
-O acesso público para clientes ainda precisa ser solicitado ou configurado: a publicação privada não é um endereço aberto ao público. O site original no Canva não foi editado e continua disponível.
+O Render oferece o endereço público para clientes. A versão de revisão no Sites permanece privada. O site original no Canva não foi editado e continua disponível.
 
 ## Informações a confirmar
 Contatos e redes foram encontrados e estão configurados. Antes da divulgação ampla, vale atualizar a biografia profissional, o estado de Movimentos Marinhos e confirmar os nomes/links de eventuais projetos novos. Se desejar anunciar motion ou VSL, forneça peças e seus créditos. Um domínio próprio é opcional. Não existe formulário nem envio fictício: WhatsApp e e-mail são os destinos reais.
